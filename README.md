@@ -45,7 +45,6 @@ Edit
 python run_aging.py --input /path/to/image.jpg --output /path/to/save
 Make sure to update paths in config/paths_config.py before running.
 
-📊 Results
 
 🧠 Credits
 StyleGAN2 (NVIDIA)
